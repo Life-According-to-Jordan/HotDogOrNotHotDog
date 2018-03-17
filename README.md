@@ -18,6 +18,7 @@ Well, one is a news channel and the other is my next project! Say hello to my CN
 * https://www.youtube.com/watch?v=cSKfRcEDGUs
 * https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
 * https://www.tensorflow.org/tutorials/layers?utm_campaign=chrome_series_machinelearning_063016&utm_source=gdev&utm_medium=yt-desc
+* https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/?utm_campaign=chrome_series_machinelearning_063016&utm_source=gdev&utm_medium=yt-desc#0
 
 ###### Transfer Learning With Google's Inception
 * https://www.youtube.com/watch?v=cAICT4Al5Ow

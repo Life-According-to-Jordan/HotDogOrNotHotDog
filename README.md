@@ -5,11 +5,20 @@ Well, one is a news channel and the other is my next project! Say hello to my CN
 
 #### Goals
 
-1. Build my own CNN
+1. Build my own CNN to classify hot dog or not hot dog 
 2. Transfer Learn my image repository to Google's Inception
 3. Eat a hot dog and have fun! 
 
+###### Set Up & Installation 
+* https://keras.io/backend/
+* https://www.tensorflow.org/install/install_mac
+
+
 ###### Resources:
 * https://www.youtube.com/watch?v=cSKfRcEDGUs
+* https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
+* https://www.tensorflow.org/tutorials/layers?utm_campaign=chrome_series_machinelearning_063016&utm_source=gdev&utm_medium=yt-desc
+
+###### Transfer Learning With Google's Inception
 * https://www.youtube.com/watch?v=cAICT4Al5Ow
 * https://www.youtube.com/watch?v=QfNvhPx5Px8&t=208s

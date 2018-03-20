@@ -41,3 +41,18 @@ model.add(Activation('relu'))
 model.add(Dropout(0.5))
 model.add(Dense(1))
 model.add(Activation('sigmoid'))
+
+model.compile(loss='binary_crossentropy', optimizer='rmsprop', metrics=['accuracy'])
+
+model.fit_generator(training_data, 
+	samples_per_epoch = 2048, 
+	nb_epoch=30,
+	validation_data = validation_data,
+	nb_val_samples = 832)
+
+model.save_weights('models/simple_CNN.h5')
+
+img =  image.load_img('TEST IMAGE HERE', target_size(224,224))
+prediction = model.predict(img)
+print prediction
+
